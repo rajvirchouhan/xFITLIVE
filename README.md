@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Welcome to **xEarthF2**! This project is aimed at developing a state-of-the-art mobile application focused on fitness and health tracking. Our goal is to create an engaging platform that helps users improve their physical well-being through personalized workout plans, progress tracking, community support, and more.
+Welcome to **xFITLIVE**! This project is aimed at developing a state-of-the-art mobile application focused on fitness and health tracking. Our goal is to create an engaging platform that helps users improve their physical well-being through personalized workout plans, progress tracking, community support, and more.
 
 ## Features
 - **Personalized Workouts**: Users can receive customized workout plans tailored to their fitness goals and levels.
